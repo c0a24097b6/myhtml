@@ -13,3 +13,6 @@ h2{
     background-color: lightblue;
     color: black;
 }
+body{
+    background-image: bg.png;
+}
