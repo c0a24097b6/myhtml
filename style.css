@@ -14,5 +14,5 @@ h2{
     color: black;
 }
 body{
-    background-image: bg.png;
+    background-image: url(bg.png);
 }
